@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
 # Use mysql as the database for Active Record
@@ -28,7 +27,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Unicorn as the app server
 # gem 'unicorn'
-
+# mailing gem
+gem 'mail_form', '~> 1.5', '>= 1.5.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
