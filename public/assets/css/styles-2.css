@@ -339,8 +339,8 @@ z-index: 20;
   color: #fff;
 }
 .branding {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 h1.logo {
   margin: 0;
@@ -921,6 +921,7 @@ h1.logo img {
 /* ======= FAQs Section ======= */
 .faq-section {
   background: #f5f5f5;
+  padding-top: 5px;
 }
 .faq-section .section-title {
   margin-bottom: 60px;
